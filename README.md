@@ -1,5 +1,7 @@
 # CS-NTHU-CPP-Programming-Project
 
+2022/February - 2023/January
+
 Notice:
 1. Use codeblocks with MinGW
 2. Use allergro & algif5

@@ -3,8 +3,9 @@
 2022/February - 2023/January
 
 Notice:
-1. Use codeblocks with MinGW
-2. Use allergro & algif5
+1. C++ environment
+2. Use codeblocks with MinGW
+3. Use allergro & algif5
 
 計算機程式設計一 期末專案自製遊戲：程設一倖存者  
 Link:
